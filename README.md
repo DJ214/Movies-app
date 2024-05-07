@@ -1,1 +1,1 @@
-# Movies-app-IMDB-clone-
+# Movies-app
